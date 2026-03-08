@@ -5,7 +5,6 @@
     </a> 
     <img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif" width="800"  height="3">
 </div>
-
 <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/AmaniDawn/AmaniDawn/Image/gif2.gif" width="380"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
@@ -28,7 +27,7 @@
     <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=cs,unity,net,rider,visualstudio,vscode,mongodb,jenkins,aiscript,cpp,java,json,git,github,hexo&titles=true" alt="Skill Icons" title="Skill Icons">
 </p>
 🌐 &nbsp;
-![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=Csharp&logoColor=512BD4)
+![C#](https://img.shields.io/badge/-C%20Sharp-333333?style=flat&logo=Csharp&logoColor=512BD4)
 ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity&logoColor=FFFFFF)
 ![HybridCLR](https://badgen.net/badge/HybridCLR/热更新/red)
 ![YooAsset](https://badgen.net/badge/YooAsset/热更新/red)
