@@ -65,9 +65,10 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake.svg">
 </picture>
 
-![githubStar](https://github-readme-stats.vercel.app/api?username=AmaniDawn&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=AmaniDawn)
+<p align="center">
+    <!-- https://github.com/LelouchFR/skill-icons -->
+    <img width="500" src="https://streak-stats.demolab.com/?user=AmaniDawn">
+</p>
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=AmaniDawn&theme=react-dark&hide_border=true&area=true)
 
