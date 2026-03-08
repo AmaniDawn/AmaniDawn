@@ -5,7 +5,9 @@
     </a> 
 </h1>
 
-
+<div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif" width="800"  height="3">
+</div>
 
 <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/AmaniDawn/AmaniDawn/Image/gif2.gif" width="380"/>
 
@@ -26,7 +28,7 @@
 
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
-    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=cs,unity,rider,visualstudio,vscode,mongodb,jenkins,aiscript,cpp,java,json,git,github,hexo,md&titles=true" alt="Skill Icons" title="Skill Icons">
+    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=cs,unity,net,rider,visualstudio,vscode,mongodb,jenkins,aiscript,cpp,java,json,git,github,hexo&titles=true" alt="Skill Icons" title="Skill Icons">
 </p>
 
 🌐 &nbsp;
@@ -36,7 +38,7 @@
 ![YooAsset](https://badgen.net/badge/YooAsset/热更新/red)
 ![C++](https://img.shields.io/badge/-C%20++-333333?style=flat&logo=Cplusplus&logoColor=00599C)
 ![Json](https://img.shields.io/badge/-Json-333333?style=flat&logo=Json&logoColor=000000)
-<!--![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=.net)-->
+![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=.net)
 
 ⚙️ &nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
