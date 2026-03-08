@@ -27,9 +27,8 @@
     <!-- https://github.com/LelouchFR/skill-icons -->
     <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=cs,unity,net,rider,visualstudio,vscode,mongodb,jenkins,aiscript,cpp,java,json,git,github,hexo&titles=true" alt="Skill Icons" title="Skill Icons">
 </p>
-
 🌐 &nbsp;
-![C#](https://img.shields.io/badge/-C%20Sharp-333333?style=flat&logo=Csharp&logoColor=512BD4)
+![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=Csharp&logoColor=512BD4)
 ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity&logoColor=FFFFFF)
 ![HybridCLR](https://badgen.net/badge/HybridCLR/热更新/red)
 ![YooAsset](https://badgen.net/badge/YooAsset/热更新/red)
