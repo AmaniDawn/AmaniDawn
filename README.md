@@ -23,6 +23,11 @@
 
 ---
 
+<p align="center">
+    <!-- https://github.com/LelouchFR/skill-icons -->
+    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=cs,unity,rider,visualstudio,vscode,mongodb,cpp,java,json,git,github,hexo,md&titles=true" alt="Skill Icons" title="Skill Icons">
+</p>
+
 🌐 &nbsp;
 ![C#](https://img.shields.io/badge/-C%20Sharp-333333?style=flat&logo=Csharp&logoColor=512BD4)
 ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity&logoColor=FFFFFF)
@@ -76,3 +81,4 @@
   	<img src="https://github-readme-stats.vercel.app/api/pin/?username=AmaniDawn&repo=DGame&theme=buefy">
   </a>
 </div>
+
