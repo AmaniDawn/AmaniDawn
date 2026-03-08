@@ -72,7 +72,7 @@
 <h3 style="float: left;"> &nbsp;Top Repositories</h3>
 
 <div  align="center">
-  <a href="https://github.com/AzureBubble/DGame">
+  <a href="https://github.com/AmaniDawn/DGame">
   	<img src="https://github-readme-stats.vercel.app/api/pin/?username=AmaniDawn&repo=DGame&theme=buefy">
   </a>
 </div>
