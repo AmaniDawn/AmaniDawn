@@ -57,7 +57,9 @@
 
  &nbsp;  &nbsp; 
 
-# ⭐ Github Stats
+<h3> ⭐ Github Stats </h3>
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmaniDawn/AmaniDawn/output/github-contribution-grid-snake-dark.svg">
