@@ -25,7 +25,7 @@
 
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
-    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=cs,unity,rider,visualstudio,vscode,mongodb,cpp,java,json,git,github,hexo,md&titles=true" alt="Skill Icons" title="Skill Icons">
+    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=cs,unity,rider,visualstudio,vscode,mongodb,jenkins,aiscript,cpp,java,json,git,github,hexo,md&titles=true" alt="Skill Icons" title="Skill Icons">
 </p>
 
 🌐 &nbsp;
@@ -66,8 +66,7 @@
 </picture>
 
 <p align="center">
-    <!-- https://github.com/LelouchFR/skill-icons -->
-    <img width="500" src="https://streak-stats.demolab.com/?user=AmaniDawn">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AmaniDawn&theme=onedark&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=AmaniDawn&theme=react-dark&hide_border=true&area=true)
