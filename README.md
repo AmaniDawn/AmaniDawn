@@ -13,10 +13,10 @@
 ---
 
 - :shipit: &nbsp; Unity游戏开发者
-- 🔱 &nbsp; 游戏和XR狂热爱好者
-- 🎓 &nbsp; 正在努力学习游戏开发的前后端知识
+- 🔱 &nbsp; 游戏和XR爱好者
+- 🎓 &nbsp; 正在努力精进游戏开发的前后端知识
 - 🚀 &nbsp; 努力提升自我编码素养和游戏开发能力
-- ✍️ &nbsp; 目标是成为一名全能的游戏客户端主程
+- ✍️ &nbsp; 目标是成为一名全能的游戏开发主程
 - 🎡 &nbsp; 梦想是做出一款爆款的独立游戏
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -73,6 +73,6 @@
 
 <div  align="center">
   <a href="https://github.com/AzureBubble/DGame">
-  	<img src="https://github-readme-stats.vercel.app/api/pin/?username=AzureBubble&repo=DGame&theme=buefy">
+  	<img src="https://github-readme-stats.vercel.app/api/pin/?username=AmaniDawn&repo=DGame&theme=buefy">
   </a>
 </div>
