@@ -46,7 +46,7 @@
 🔧 &nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=5C2D91)
 ![Rider](https://img.shields.io/badge/-Rider-333333?style=flat&logo=rider&logoColor=000000)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![VMware](https://img.shields.io/badge/-VMware-333333?style=flat&logo=vmware&logoColor=607078)
 
 <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/AzureBubble/AzureBubble/Image/duck.gif" width="150"/>
