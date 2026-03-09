@@ -33,7 +33,7 @@
 ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity&logoColor=FFFFFF)
 ![HybridCLR](https://badgen.net/badge/HybridCLR/热更新/red)
 ![YooAsset](https://badgen.net/badge/YooAsset/热更新/red)
-![Fantasy](https://img.shields.io/badge/-Fantasy-服务器-333333?style=flat&logo=visual-studio&logoColor=5C2D91)
+![Fantasy](https://img.shields.io/badge/Fantasy-Unity%20Server-FF6B6B?style=for-the-badge)
 ![C++](https://img.shields.io/badge/-C%20++-333333?style=flat&logo=Cplusplus&logoColor=00599C)
 ![Json](https://img.shields.io/badge/-Json-333333?style=flat&logo=Json&logoColor=000000)
 
