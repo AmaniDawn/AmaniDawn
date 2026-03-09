@@ -34,6 +34,7 @@
 ![HybridCLR](https://badgen.net/badge/HybridCLR/Hotfix/red)
 ![YooAsset](https://img.shields.io/badge/YooAsset-Resource%20Manager-FF6B00?logo=nuget&logoColor=white)
 ![Fantasy](https://img.shields.io/badge/Fantasy-Unity%20Server-FF6B6B)
+![Mongodb](https://img.shields.io/badge/NoSQL-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Jekins](https://img.shields.io/badge/Jenkins-333333?logo=jenkins&logoColor=white)
 ![C++](https://img.shields.io/badge/-C%20++-333333?style=flat&logo=Cplusplus&logoColor=00599C)
 ![Json](https://img.shields.io/badge/-Json-333333?style=flat&logo=Json&logoColor=000000)
