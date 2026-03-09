@@ -12,12 +12,12 @@
 
 ---
 
-- :shipit: &nbsp; Unity游戏开发者
-- 🔱 &nbsp; 游戏和XR爱好者
-- 🎓 &nbsp; 正在努力精进游戏开发的前后端知识
-- 🚀 &nbsp; 努力提升自我编码素养和游戏开发能力
-- ✍️ &nbsp; 目标是成为一名全能的游戏开发主程
-- 🎡 &nbsp; 梦想是做出一款爆款的独立游戏
+- :shipit: &nbsp; Unity Game Developer
+- 🔱 &nbsp; Gaming & XR Enthusiast
+- 🎓 &nbsp; Leveling up in full-stack game development
+- 🚀 &nbsp; Striving to elevate coding craftsmanship & game dev skills
+- ✍️ &nbsp; Goal: Become a versatile Lead Game Programmer
+- 🎡 &nbsp; Dream: Ship a hit indie game
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
