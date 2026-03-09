@@ -31,8 +31,8 @@
 🌐 &nbsp;
 ![C#](https://img.shields.io/badge/.NET-C%23-512BD4?logo=dotnet&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity&logoColor=FFFFFF)
-![HybridCLR](https://badgen.net/badge/HybridCLR/热更新/red)
-![YooAsset](https://badgen.net/badge/YooAsset/热更新/red)
+![HybridCLR](https://badgen.net/badge/HybridCLR/Hotfix/red)
+![YooAsset](https://img.shields.io/badge/YooAsset-Resource%20Manager-FF6B00?logo=nuget&logoColor=white)
 ![Fantasy](https://img.shields.io/badge/Fantasy-Unity%20Server-FF6B6B)
 ![C++](https://img.shields.io/badge/-C%20++-333333?style=flat&logo=Cplusplus&logoColor=00599C)
 ![Json](https://img.shields.io/badge/-Json-333333?style=flat&logo=Json&logoColor=000000)
