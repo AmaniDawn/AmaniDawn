@@ -29,13 +29,12 @@
 </p>
 
 🌐 &nbsp;
-![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=Csharp&logoColor=512BD4)
+![C#](https://img.shields.io/badge/.NET-C%23-512BD4?logo=dotnet&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity&logoColor=FFFFFF)
 ![HybridCLR](https://badgen.net/badge/HybridCLR/热更新/red)
 ![YooAsset](https://badgen.net/badge/YooAsset/热更新/red)
 ![C++](https://img.shields.io/badge/-C%20++-333333?style=flat&logo=Cplusplus&logoColor=00599C)
 ![Json](https://img.shields.io/badge/-Json-333333?style=flat&logo=Json&logoColor=000000)
-![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=.net)
 
 ⚙️ &nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
