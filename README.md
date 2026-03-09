@@ -44,7 +44,7 @@
 ![Hexo](https://img.shields.io/badge/-Hexo-333333?style=flat&logo=hexo&logoColor=0E83CD)
 
 🔧 &nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=5C2D91)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visualstudio&logoColor=5C2D91)
 ![Rider](https://img.shields.io/badge/-Rider-333333?style=flat&logo=rider&logoColor=000000)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![VMware](https://img.shields.io/badge/-VMware-333333?style=flat&logo=vmware&logoColor=607078)
