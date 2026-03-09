@@ -5,6 +5,7 @@
     </a> 
     <img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif" width="800"  height="3">
 </div>
+
 <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/AmaniDawn/AmaniDawn/Image/gif2.gif" width="380"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
@@ -60,18 +61,21 @@
 
 ---
 
-<picture>
+<p align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmaniDawn/AmaniDawn/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmaniDawn/AmaniDawn/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake.svg">
-</picture>
+</p>
+
 <p align="center">
     <a href="https://github.com/AmaniDawn"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmaniDawn&theme=solarized"/></a>
 </p>
+
 <p align="center">
      <a href="https://github.com/AmaniDawn"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmaniDawn&theme=solarized"/></a>
      <a href="https://github.com/AmaniDawn"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmaniDawn&theme=solarized"/></a>
 </p>
+
 <p align="center">
     <a href="https://github.com/AmaniDawn"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmaniDawn&theme=solarized"/></a>
     <a href="https://github.com/AmaniDawn"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmaniDawn&theme=solarized&utcOffset=8"/></a>
@@ -87,6 +91,5 @@
 <img src="https://cdn.jsdelivr.net/gh/AzureBubble/AzureBubble/Image/icon.png" />
 
 <p align="center">
-    <!-- https://github.com/kyechan99/capsule-render -->
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Keep%20it%20simple,%20stupid&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" alt="The End" title="The End"/>
 </p>
