@@ -85,7 +85,7 @@
 
 
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AmaniDawn&theme=onedark&hide_border=true" alt="GitHub Streak" /></a> 
+    <img src="https://streak-stats.demolab.com?user=AmaniDawn&theme=onedark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=AmaniDawn&theme=react-dark&hide_border=true&area=true)
