@@ -36,8 +36,8 @@
 ![Fantasy](https://img.shields.io/badge/Fantasy-Unity%20Server-FF6B6B)
 ![Mongodb](https://img.shields.io/badge/MongoDB-NoSQL-47A248?logo=mongodb&logoColor=white)
 ![Jekins](https://img.shields.io/badge/Jenkins-333333?logo=jenkins&logoColor=white)
-![C++](https://img.shields.io/badge/-C%20++-333333?style=flat&logo=Cplusplus&logoColor=00599C)
 ![Json](https://img.shields.io/badge/-Json-333333?style=flat&logo=Json&logoColor=000000)
+<!-- ![C++](https://img.shields.io/badge/-C%20++-333333?style=flat&logo=Cplusplus&logoColor=00599C) -->
 
 ⚙️ &nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
