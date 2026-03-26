@@ -51,7 +51,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![VMware](https://img.shields.io/badge/-VMware-333333?style=flat&logo=vmware&logoColor=607078)
 
-<img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/AzureBubble/AzureBubble/Image/duck.gif" width="150"/>
+<img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/AmaniDawn/AmaniDawn/Image/duck.gif" width="150"/>
 
  &nbsp;  &nbsp; 
 
@@ -90,7 +90,7 @@
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=AmaniDawn&theme=react-dark&hide_border=true&area=true)
 
-<!-- <img src="https://cdn.jsdelivr.net/gh/AzureBubble/AzureBubble/Image/icon.png" /> -->
+<img src="https://cdn.jsdelivr.net/gh/AmaniDawn/AmaniDawn/Image/icon.png" />
 
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Bye,%20have%20a%20nice%20day!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" alt="The End" title="The End"/>
